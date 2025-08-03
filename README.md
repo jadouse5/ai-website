@@ -2,6 +2,8 @@
 
 This project is a web server with a unique characteristic: **none of its pages exist as files**. Instead, it uses a Large Language Model (LLM) to generate and render entire web pages on the fly. Every request is routed through a configurable LLM provider, which creates the page content in real-time based on the URL you visit.
 
+![Alt text](/demo.png)
+
 ## Table of Contents
 
 1.  [Author](#author)
