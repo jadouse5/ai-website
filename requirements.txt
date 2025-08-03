@@ -1,0 +1,3 @@
+Flask
+groq
+google-generativeai
